@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/raghuladhi/bake#readme",
   "dependencies": {
+    "animate.css": "^4.1.1",
     "autoprefixer": "^10.3.4",
     "postcss": "^8.3.6",
     "postcss-cli": "^8.3.1",

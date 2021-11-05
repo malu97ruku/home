@@ -24,16 +24,16 @@ body {
 
 /************************** Product Section **************************/
 .cake-card {
-	background: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.6),rgba(0, 0, 0, .9)), url("img/cakes.jpg");
+	background: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.6),rgba(0, 0, 0, .9)), url("../img/cakes.jpg");
 }
 .cookie-card {
-	background: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.6),rgba(0, 0, 0, .9)), url("img/cookies.jpg");
+	background: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.6),rgba(0, 0, 0, .9)), url("../img/cookies.jpg");
 }
 .bread-card {
-	background: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.6),rgba(0, 0, 0, .9)), url("img/breads.jpg");
+	background: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.6),rgba(0, 0, 0, .9)), url("../img/breads.jpg");
 }
 .pastry-card {
-	background: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.6),rgba(0, 0, 0, .9)), url("img/pastries.jpg");
+	background: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.6),rgba(0, 0, 0, .9)), url("../img/pastries.jpg");
 }
 .category-card {
 	padding: 20rem 1.5rem 1.5rem 1.5rem;
